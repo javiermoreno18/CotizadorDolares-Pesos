@@ -1,0 +1,10 @@
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\bin\Debug\Convertidor_Dolares.exe.config
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\bin\Debug\Convertidor_Dolares.exe
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\bin\Debug\Convertidor_Dolares.pdb
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.csprojAssemblyReference.cache
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.Form1.resources
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.Form2.resources
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.Properties.Resources.resources
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.csproj.GenerateResource.cache
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.exe
+C:\Users\fcoja\source\repos\Convertidor_Dolares\Convertidor_Dolares\obj\Debug\Convertidor_Dolares.pdb
